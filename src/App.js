@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and web3
+          Learn React and web3 initial
         </a>
       </header>
     </div>
